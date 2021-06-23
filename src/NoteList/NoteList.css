@@ -1,0 +1,18 @@
+.note-container{
+    width: 30%;
+    margin-top: 70px;
+    background-color:rgb(121, 204, 207);
+    list-style: none;
+    height: 500px;
+    text-align: left;
+}
+
+.note-item {
+    padding: 10px;
+    text-align: left;
+    width: 100%;
+}
+.note-item:hover{
+    background-color:rgb(50, 145, 148);
+    border-radius: 5px;
+}

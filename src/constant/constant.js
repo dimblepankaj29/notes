@@ -4,11 +4,11 @@ export const NoteListData = [
         "noteTitle":'Note1',
         "notes":[
             {
-                "noteItemId" :"item1",
+                "noteItemId" :1,
                 "text" : "this is my first Note"
             },
             {
-                "noteItemId" :"item2",
+                "noteItemId" :2,
                 "text" : "this is my second Note"
             },
         ]
@@ -20,11 +20,11 @@ export const NoteListData = [
         "noteTitle":'Note2',
         "notes":[
             {
-                "noteItemId" :"item1",
+                "noteItemId" :1,
                 "text" : "this is my scond Note first item"
             },
             {
-                "noteItemId" :"item2",
+                "noteItemId" :2,
                 "text" : "this is my scond Note first item second item"
             },
         ]
